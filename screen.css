@@ -1,0 +1,56 @@
+body{
+	margin: 0 auto;
+/*	background-image: url("img/coba.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 720px;*/
+	background-color: #b9b9b9;
+}
+
+.container{
+    width: 570px;
+    height: 470px;
+    background-color: rgb(255, 255, 255);
+    margin: 82px auto 0px;
+    border-radius: 5px;
+    padding: 0 20px;
+}
+
+.wraper{
+    width: 155px;
+    height: 256px;
+    background-color:#7fc3e9;
+    font-size: 28px;
+    float: left;
+    line-height: 47px;
+    border-radius: 5px;
+}
+
+.wraper1{
+    width: 360px;
+    height: 228px;
+    background-color: #7fc3e9;
+    text-align: center;
+    font-size: 40px;
+    margin-left: 210px;
+    margin-bottom: 20px;
+    padding-top: 29px;
+    border-radius: 5px;
+}
+
+.logout input[type="submit"]{
+    float: right;
+    height: 50px;
+    width: 140px;
+    font-family: Lucida Calligraphy;
+    font-weight: bold;
+    font-size: 20px;
+    border-radius: 8px;
+    color: #fff;
+    background-color: #16ebc5;
+    border: none;
+    border-bottom: 4px solid #15d2b0;
+    cursor: pointer;
+}
+
+img {
+    margin: -68px 210px 0px;
